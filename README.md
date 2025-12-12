@@ -1,7 +1,7 @@
 # 🔍 Detección de Imágenes: Real vs. AI
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/samcastroca/proyecto-pdi/blob/main/notebooks/train.ipynb)
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-blue)](https://juandaram-deepfake-detector-api.hf.space)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Demo-blue)](https://huggingface.co/juandaram/deepfake-detector)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Clasificación Binaria con Transfer Learning (ResNet50)**
