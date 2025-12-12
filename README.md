@@ -100,11 +100,11 @@ El modelo fue entrenado utilizando el dataset **CIFAKE**, que contiene imágenes
 
 ### Componentes
 
-| Color | Componente | Descripción |
-|-------|------------|-------------|
-| 🔘 Gris | Extractor de características | Capas congeladas de ResNet50 |
-| 🟠 Naranja | Fine-tuning | Últimas 10 capas entrenables |
-| 🟢 Verde | Clasificador | Capas densas personalizadas |
+| Componente | Descripción |
+|------------|-------------|
+| Extractor de características | Capas congeladas de ResNet50 |
+| Fine-tuning | Últimas 10 capas entrenables |
+| Clasificador | Capas densas personalizadas |
 
 ---
 
